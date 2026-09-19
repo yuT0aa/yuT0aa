@@ -5,7 +5,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=120&section=header&text=yuT0aa%20-%20Contributions&fontSize=30&fontColor=7aa2f7" width="100%" />
 
-<br /><br />
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;JavaScript+%7C+Node.js+%7C+PHP;Oracle+SQL+%7C+MySQL;169%2B+Contributions+on+GitHub" alt="Typing SVG" />
