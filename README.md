@@ -1,5 +1,13 @@
 <div align="center">
 
+## 📊 Activity Summary
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;JavaScript+%7C+Node.js+%7C+PHP;Oracle+SQL+%7C+MySQL;169%2B+Contributions+on+GitHub" alt="Typing SVG" />
+
+</div>
+
 # 👋 Hi, I'm **SMILE**
 
 ### **Full-Stack Developer & Tech Enthusiast**
