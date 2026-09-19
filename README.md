@@ -51,8 +51,13 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yuT0aa&theme=tokyonight&hide_border=true" alt="yuT0aa Streak Stats" />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuT0aa&theme=tokyonight" alt="yuT0aa Profile Stats" />
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=yuT0aa&theme=tokyonight&margin-w=15" alt="yuT0aa Trophies" />
+</a>
+
+<br />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuT0aa&layout=compact&theme=tokyonight&hide=html,css&cache_seconds=1800" alt="yuT0aa Top Languages" />
 
 </div>
 
