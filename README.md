@@ -47,14 +47,19 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Overview
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yuT0aa&theme=tokyonight&bg_color=1a1b26&hide_border=true" alt="yuT0aa's Contribution Graph" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=120&section=header&text=yuT0aa%20-%20Contributions&fontSize=30&fontColor=7aa2f7" width="100%" />
+
+<br /><br />
+
+[![GitHub Commits](https://img.shields.io/badge/Public_Repos-10-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yuT0aa?tab=repositories)
+[![GitHub Contributions](https://img.shields.io/badge/Contributions-169+-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yuT0aa)
+[![Account Age](https://img.shields.io/badge/GitHub_Member-1_Year-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yuT0aa)
 
 </div>
-
 ---
 
 ## 📫 Connect With Me
