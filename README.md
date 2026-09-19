@@ -51,8 +51,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuT0aa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="yuT0aa's GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuT0aa&layout=compact&theme=tokyonight&hide=html,css" alt="yuT0aa's Most Used Languages" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yuT0aa&theme=tokyonight&hide_border=true" alt="yuT0aa Streak Stats" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuT0aa&theme=tokyonight" alt="yuT0aa Profile Stats" />
 
 </div>
 
