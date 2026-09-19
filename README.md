@@ -51,8 +51,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuT0aa&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="yuT0aa GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuT0aa&layout=compact&theme=tokyonight&hide=html,css&cache_seconds=1800" alt="yuT0aa Top Languages" />
+<img height="180em" src="https://github-readme-stats.api.1001.workers.dev/api?username=yuT0aa&show_icons=true&theme=tokyonight" alt="yuT0aa's GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.api.1001.workers.dev/api/top-langs/?username=yuT0aa&layout=compact&theme=tokyonight&hide=html,css" alt="yuT0aa's Top Languages" />
 
 </div>
 
