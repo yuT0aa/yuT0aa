@@ -51,8 +51,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.api.1001.workers.dev/api?username=yuT0aa&show_icons=true&theme=tokyonight" alt="yuT0aa's GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.api.1001.workers.dev/api/top-langs/?username=yuT0aa&layout=compact&theme=tokyonight&hide=html,css" alt="yuT0aa's Top Languages" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yuT0aa&theme=tokyonight&bg_color=1a1b26&hide_border=true" alt="yuT0aa's Contribution Graph" />
 
 </div>
 
