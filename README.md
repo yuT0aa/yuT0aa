@@ -51,12 +51,7 @@
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=yuT0aa&theme=tokyonight&margin-w=15" alt="yuT0aa Trophies" />
-</a>
-
-<br />
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuT0aa&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="yuT0aa GitHub Stats" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuT0aa&layout=compact&theme=tokyonight&hide=html,css&cache_seconds=1800" alt="yuT0aa Top Languages" />
 
 </div>
