@@ -20,7 +20,7 @@
 ---
 
 [![GitHub followers](https://img.shields.io/github/followers/yuT0aa?style=for-the-badge&logo=github&color=181717)](https://github.com/yuT0aa)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Figma_Site-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://achrafportfolio.figma.site/)
+[![Portfolio](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://achrafarajoum.vercel.app/)
 [![Kick](https://img.shields.io/badge/Kick-smi--le-53FC18?style=for-the-badge&logo=kick&logoColor=black)](https://kick.com/smi-le)
 
 ---
