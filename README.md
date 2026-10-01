@@ -71,6 +71,6 @@
 
 ## 📫 Connect With Me
 
-- 🌐 **Portfolio:** [achrafportfolio.figma.site](https://achrafportfolio.figma.site/)
+- 🌐 **Portfolio:** [https://achrafarajoum.vercel.app/](https://achrafarajoum.vercel.app/)
 - 📧 **Email:** [achraf.arajoum@gmail.com](mailto:achraf.arajoum@gmail.com)
 - 🎮 **Kick Channel:** [kick.com/smi-le](https://kick.com/smi-le)
