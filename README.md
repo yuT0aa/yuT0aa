@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# ACHRAF ARAJOUM
+# Achraf Arajoum
 
 ### Aspiring Web Developer · Frontend Developer
 
@@ -45,17 +45,38 @@ Building modern, creative and user-focused web experiences.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuT0aa&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
+<!-- profile-readme:stats:start -->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuT0aa&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+![GitHub statistics](https://github-readme-stats.vercel.app/api?username=yuT0aa&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yuT0aa&theme=github-dark-blue&hide_border=true&background=0D1117)
+![Most-used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuT0aa&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
+![Contribution streak](https://streak-stats.demolab.com?user=yuT0aa&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF)
 
 </div>
 
 ## Contribution Activity
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=yuT0aa&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&hide_border=true)
+<!-- profile-readme:activity:start -->
+![Contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=yuT0aa&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&hide_border=true)
+<!-- profile-readme:activity:end -->
+
+## Latest Public Repositories
+
+Updated daily from the GitHub API.
+
+<!-- profile-readme:repositories:start -->
+| Repository | Description | Primary language |
+| --- | --- | --- |
+| [demoRoutage](https://github.com/yuT0aa/demoRoutage) | No description provided. | JavaScript |
+| [JavaScript-Modules](https://github.com/yuT0aa/JavaScript-Modules) | No description provided. | JavaScript |
+| [AI-Generative-Art-Lab](https://github.com/yuT0aa/AI-Generative-Art-Lab) | No description provided. | Python |
+| [FirstAppReact-1](https://github.com/yuT0aa/FirstAppReact-1) | No description provided. | Not specified |
+| [JobAppTracker](https://github.com/yuT0aa/JobAppTracker) | No description provided. | TypeScript |
+| [TP\_React](https://github.com/yuT0aa/TP_React) | No description provided. | CSS |
+<!-- profile-readme:repositories:end -->
+
+See [how the profile README automation works](PROFILE_README_AUTOMATION.md), including how to run it and troubleshoot updates.
 
 ---
 
